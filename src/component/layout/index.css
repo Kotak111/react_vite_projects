@@ -1,0 +1,25 @@
+img{
+    height: 200px;    
+}
+.card{
+    width: 20rem;
+}
+.card-title{
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+}
+.card-text{
+    color: purple;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+/* counter */
+.counter{
+    margin: auto!important;
+   
+    margin-left: 45%!important;
+    margin-top: 20px!important;
+}
